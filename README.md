@@ -59,9 +59,9 @@ A functional web application UI with authentication, dashboards, charts, and str
 
 If you’d like to work together or have an idea to build:
 
-- 📧 Email: your-email@example.com  
-- 💬 WhatsApp: +91-XXXXXXXXXX  
-- 🔗 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: webbuddy.reach@gmail.com
+- 💬 WhatsApp: +91-6304763942  
+ 
 
 ---
 
