@@ -1,8 +1,7 @@
-import Hero from "../components/Hero";
-import Services from "../components/Services";
-import WhyUs from "../components/WhyUs";
-import Testimonials from "../components/Testimonials";
-import CTA from "../components/CTA";
+import Hero from "../src/components/Hero";
+import Services from "../src/components/Services";
+import WhyUs from "../src/components/WhyUs";
+import CTA from "../src/components/CTA";
 
 export default function Home() {
   return (
@@ -10,7 +9,6 @@ export default function Home() {
       <Hero />
       <Services />
       <WhyUs />
-      <Testimonials />
       <CTA />
     </>
   );
